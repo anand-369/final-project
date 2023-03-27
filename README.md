@@ -7,7 +7,7 @@ This is a web based application developed for providing information related to m
 
 **Project Link** - https://jolly-forest-0dc4f5300.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/b8SBFLI8VhA 
 
 ## Azure technologies used for Project
 
