@@ -28,24 +28,24 @@ This is a web based application developed for providing information related to m
 
 
 ### azure technologies -
-![azure services](https://user-images.githubusercontent.com/115984065/218024293-3c852302-fd68-4bf5-9df4-b1cccb093fff.jpg)
-![static web apps](https://user-images.githubusercontent.com/115984065/218024394-74c7aaed-ca16-407b-b54d-a4b9d4713313.jpg)
-![health bot main](https://user-images.githubusercontent.com/115984065/218025598-b571d832-3715-495b-a08e-532cae2b5716.jpg)
 
+![azure home](https://user-images.githubusercontent.com/115984065/227836073-4a114030-cdcc-46be-aa43-eec5ebe9fbdd.jpg)
+![azure page health bot](https://user-images.githubusercontent.com/115984065/227836266-cf234b0f-d10a-4661-ad6c-3be22f02d4ea.jpg)
+
+![azure page resource group](https://user-images.githubusercontent.com/115984065/227836295-671646a0-7336-4845-a855-2aba91702587.jpg)
 
 
 ### health bot
-![healthbot1](https://user-images.githubusercontent.com/115984065/218024532-ad74d04b-296d-464f-9103-143c04ee194b.jpg)
-![healthbot2](https://user-images.githubusercontent.com/115984065/218024542-b0cbac4e-47e9-400c-89f7-8100237bd1e7.jpg)
-![healthbot3](https://user-images.githubusercontent.com/115984065/218024553-0cebd570-d3f2-4bb2-9da4-97d90d7a22bb.jpg)
+
+![health bot1](https://user-images.githubusercontent.com/115984065/227836412-38e02de7-ae30-4e29-a98a-d58d3a7fb6b9.jpg)
+![health bot2](https://user-images.githubusercontent.com/115984065/227836429-78e352e4-bdda-489a-802f-9e3da0ac9d1a.jpg)
 
 
 ### website
-![Screenshot (14)](https://user-images.githubusercontent.com/115984065/218142400-921ce599-2f51-498e-b8d4-b646785ebb72.png)
+![project home](https://user-images.githubusercontent.com/115984065/227836521-a5f2c955-dd81-4769-a515-b5d6bc186083.jpg)
+![project](https://user-images.githubusercontent.com/115984065/227836542-91644312-ebee-4910-b00e-8ec53110ec3d.jpg)
+![project gallery](https://user-images.githubusercontent.com/115984065/227836565-43db7ce8-602a-48ab-94f2-41b6dafd33fe.jpg)
 
-![Screenshot (15)](https://user-images.githubusercontent.com/115984065/218142439-bb085ab3-5a35-4df8-902f-d1f427754fe9.png)
-
-![Screenshot (16)](https://user-images.githubusercontent.com/115984065/218142487-1730298d-acf0-413f-9416-fa4799b9b751.png)
 
 
 
