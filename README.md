@@ -5,7 +5,7 @@ This is a web based application developed for providing information related to m
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://blue-stone-0d6e1aa00.2.azurestaticapps.net
+**Project Link** - https://jolly-forest-0dc4f5300.2.azurestaticapps.net
 
 **project demo video link** -https://youtu.be/IHPNWwHg3j0 
 
