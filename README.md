@@ -1,6 +1,6 @@
-# ✨  FRUITS FOR GOOD HEALTH ✨
+# ✨  INNER PEACE ✨
 
-This is a web based application developed for providing information related to fruits and their uses in india
+This is a web based application developed for providing information related to meditation and diffrent types of meditation  in india
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -19,8 +19,7 @@ This is a web based application developed for providing information related to f
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, fruits , services , Menu, health topics and health related information etc.
-- User can know about health information through this website.
+- User can know about meditation related information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## screenshots
